@@ -58,7 +58,7 @@ Auberge du Soleil,2019,38.49199,-122.40534,San Francisco,California,94573,Califo
 Farmhouse Inn & Restaurant,2019,38.49039,-122.8835,San Francisco,California,95436,Californian,4,https://guide.michelin.com/us/en/california/san-francisco/restaurant/farmhouse-inn-restaurant
 The Kitchen,2019,38.58894,-121.41424,Sacramento,California,95825,Contemporary,4,https://guide.michelin.com/us/en/california/us-sacramento/restaurant/the-kitchen559371
 Madrona Manor,2019,38.60428,-122.88647,San Francisco,California,95448,Contemporary,4,https://guide.michelin.com/us/en/california/san-francisco/restaurant/madrona-manor
-Harbor House,2019,39.135876,-123.719444,San Francisco,California,N/A,Californian,4,https://guide.michelin.com/us/en/california/san-francisco/restaurant/harbor-house
+Harbor House,2019,39.135876,-123.719444,San Francisco,California,95432,Californian,4,https://guide.michelin.com/us/en/california/san-francisco/restaurant/harbor-house
 Shin Sushi,2019,34.15784,-118.49415,Los Angeles,California,91436,Japanese,3,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/shin-sushi
 Rustic Canyon,2019,34.024952,-118.49118,Los Angeles,California,90401,Californian,3,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/rustic-canyon
 Dialogue,2019,34.01679,-118.49748,Los Angeles,California,90401,Contemporary,4,https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/dialogue
@@ -204,9 +204,9 @@ Galt,2019,59.91661,10.71369,Oslo,Norway,263,Modern cuisine,3,https://guide.miche
 Kontrast,2019,59.92355,10.75106,Oslo,Norway,178,Scandinavian,3,https://guide.michelin.com/no/en/oslo-region/oslo/restaurant/kontrast
 Statholdergaarden,2019,59.90937,10.74305,Oslo,Norway,151,Classic cuisine,4,https://guide.michelin.com/no/en/oslo-region/oslo/restaurant/statholdergaarden
 Del Posto,2019,40.74327,-74.0077,New York,New York City,10011,Italian,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/del-posto
-Le Grill de Joël Robuchon,2019,40.742897,-74.0077,New York,New York City,N/A,French,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/le-grill-de-joel-robuchon
+Le Grill de Joël Robuchon,2019,40.742897,-74.0077,New York,New York City,10011,French,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/le-grill-de-joel-robuchon
 L'Appart,2019,40.711903,-74.01544,New York,New York City,10281,French,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/l-appart
-Okuda,2019,40.743793,-74.00633,New York,New York City,N/A,Japanese,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/okuda
+Okuda,2019,40.743793,-74.00633,New York,New York City,10011,Japanese,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/okuda
 Wallsé,2019,40.73538,-74.00814,New York,New York City,10014,Austrian,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/wallse
 Jeju Noodle Bar,2019,40.732952,-74.00744,New York,New York City,10014,Korean,2,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/jeju-noodle-bar
 Sushi Nakazawa,2019,40.731716,-74.00451,New York,New York City,10014,Japanese,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-nakazawa
@@ -220,14 +220,14 @@ Carbone,2019,40.727966,-74.00017,New York,New York City,10003,Italian,4,https://
 Le Coucou,2019,40.719162,-74.00001,New York,New York City,10013,French,3,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/le-coucou
 Aldea,2019,40.73885,-73.99366,New York,New York City,10011,Mediterranean,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/aldea
 Cote,2019,40.73778,-73.99375,New York,New York City,10010,Korean,3,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/cote
-Bouley at Home,2019,40.74114,-73.99242,New York,New York City,N/A,Contemporary,3,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/bouley-at-home
+Bouley at Home,2019,40.74114,-73.99242,New York,New York City,10013,Contemporary,3,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/bouley-at-home
 Gotham Bar and Grill,2019,40.73417,-73.99379,New York,New York City,10003,American,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/gotham-bar-and-grill
 Nix,2019,40.733166,-73.993515,New York,New York City,10003,Vegetarian,3,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/nix
 Junoon,2019,40.74325,-73.99077,New York,New York City,10010,Indian,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/junoon
 NoMad,2019,40.74497,-73.98883,New York,New York City,10001,Contemporary,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/nomad
 The Musket Room,2019,40.723915,-73.99375,New York,New York City,10012,Contemporary,3,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-musket-room
 Uncle Boons,2019,40.721203,-73.99441,New York,New York City,10012,Thai,2,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/uncle-boons
-Noda,2019,40.74497,-73.988075,New York,New York City,N/A,Japanese,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/noda
+Noda,2019,40.74497,-73.988075,New York,New York City,10011,Japanese,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/noda
 Gramercy Tavern,2019,40.73849,-73.98868,New York,New York City,10003,Contemporary,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/gramercy-tavern
 The Clocktower,2019,40.7414,-73.987595,New York,New York City,10010,Contemporary,3,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-clocktower
 Ai Fiori,2019,40.75013,-73.98357,New York,New York City,10018,Italian,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/ai-fiori
@@ -238,7 +238,7 @@ Bar Uchū,2019,40.72191,-73.99003,New York,New York City,10002,Japanese,4,https:
 Café China,2019,40.749973,-73.98228,New York,New York City,10016,Chinese,2,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/cafe-china
 Kanoyama,2019,40.73071,-73.98655,New York,New York City,10003,Japanese,3,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kanoyama
 Contra,2019,40.719917,-73.98922,New York,New York City,10002,Contemporary,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/contra
-Atomix,2019,40.744408,-73.98292,New York,New York City,N/A,Korean,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/atomix
+Atomix,2019,40.744408,-73.98292,New York,New York City,10016,Korean,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/atomix
 Kyo Ya,2019,40.7266,-73.98526,New York,New York City,10009,Japanese,3,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kyo-ya
 Kajitsu,2019,40.72776,-73.98428,New York,New York City,10016,Japanese,3,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kajitsu
 Agern,2019,40.75234,-73.9775,New York,New York City,10017,Scandinavian,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/agern
@@ -248,9 +248,9 @@ Tempura Matsui,2019,40.74839,-73.97474,New York,New York City,10158,Japanese,4,h
 Sushi Yasuda,2019,40.75108,-73.97364,New York,New York City,10017,Japanese,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-yasuda
 Sushi Amane,2019,40.75133,-73.971725,New York,New York City,10017,Japanese,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-amane
 Café Boulud,2019,40.77439,-73.96414,New York,New York City,10021,French,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/cafe-boulud
-Claro,2019,40.677395,-73.98615,New York,New York City,N/A,Mexican,2,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/claro
+Claro,2019,40.677395,-73.98615,New York,New York City,11215,Mexican,2,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/claro
 Satsuki,2019,40.801243,-73.95187,New York,New York City,10036,Japanese,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/satsuki
-Sushi Noz,2019,40.77384,-73.958275,New York,New York City,N/A,Japanese,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-noz
+Sushi Noz,2019,40.77384,-73.958275,New York,New York City,10075,Japanese,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-noz
 Sushi Inoue,2019,40.810448,-73.943726,New York,New York City,10027,Japanese,4,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-inoue
 Meadowsweet,2019,40.710354,-73.96317,New York,New York City,11212,Mediterranean,3,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/meadowsweet
 Casa Enríque,2019,40.743492,-73.95425,New York,New York City,11101,Mexican,2,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/casa-enrique
